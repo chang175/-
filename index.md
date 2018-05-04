@@ -27,7 +27,7 @@ p{
 	animation: xiao 10s infinite;
 }
 .j{
-	background-image: url(../img/223.png);
+	background-image: url(./223.png);
 	background-size: 100% 100%;
 		animation: j 10s infinite;
 }
@@ -38,7 +38,7 @@ p{
 	animation: jian 10s infinite;
 }
 .y{
-	background-image: url(../img/324.png.png);
+	background-image: url(./324.png.png);
 	background-size: 100% 100%;
 		animation: y 10s infinite;
 }
@@ -49,7 +49,7 @@ p{
 	animation: yan 10s infinite;
 }
 .l{
-	background-image: url(../img/23123.png);
+	background-image: url(./23123.png);
 	background-size: 100% 100%;
 		animation: l 10s infinite;
 }
