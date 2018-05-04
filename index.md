@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="css/donghua.css"/>
+		<link rel="stylesheet" type="text/css" href="./donghua.css"/>
 	</head>
 	<body>
 		<p class="x">逍遥生<span class="xiao">逍遥天下不封侯，感叹江中一叶舟</span></p>
