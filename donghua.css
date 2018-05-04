@@ -1,0 +1,120 @@
+html,body,p{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+p{
+	font-size:30px;
+	position: absolute;
+	text-align: center;
+	color: deepskyblue;
+	padding-top: 20%;
+}
+.x{
+	background-image: url(../img/22.png);
+	background-size: 100% 100%;
+	animation: x 10s infinite;
+}
+.xiao{
+	color: mediumvioletred;
+	font-size: 16px;
+	display: block;
+	animation: xiao 10s infinite;
+}
+.j{
+	background-image: url(../img/223.png);
+	background-size: 100% 100%;
+		animation: j 10s infinite;
+}
+.jian{
+	color: mediumvioletred;
+	font-size: 16px;
+	display: block;
+	animation: jian 10s infinite;
+}
+.y{
+	background-image: url(../img/324.png.png);
+	background-size: 100% 100%;
+		animation: y 10s infinite;
+}
+.yan{
+	color: mediumvioletred;
+	font-size: 16px;
+	display: block;
+	animation: yan 10s infinite;
+}
+.l{
+	background-image: url(../img/23123.png);
+	background-size: 100% 100%;
+		animation: l 10s infinite;
+}
+.long{
+	color: mediumvioletred;
+	font-size: 16px;
+	display: block;
+	animation: long 10s infinite;
+}
+@keyframes x{
+	0%{opacity: 0}
+	25%{opacity: 100}
+	50%{opacity: 0}
+	75%{opacity: 0}
+	100%{opacity: 0}
+}
+@keyframes j{
+	0%{opacity: 0}
+	25%{opacity: 0}
+	50%{opacity: 100}
+	75%{opacity: 0}
+	100%{opacity: 0}
+}
+@keyframes y{
+	0%{opacity: 0}
+	25%{opacity: 0}
+	50%{opacity: 0}
+	75%{opacity: 100}
+	100%{opacity: 0}
+}
+@keyframes l{
+	0%{opacity: 0}
+	25%{opacity: 0}
+	50%{opacity: 0}
+	75%{opacity: 0}
+	100%{opacity: 100}
+}
+@keyframes xiao{
+	0%{opacity: 0}
+	5%{opacity: 0}
+	20%{opacity: 100}
+	25%{opacity: 0}
+	50%{opacity: 0}
+	75%{opacity: 0}
+	100%{opacity: 0}
+}
+@keyframes jian{
+	0%{opacity: 0}
+	25%{opacity: 0}
+	30%{opacity: 0}
+	45%{opacity: 100}
+	50%{opacity: 0}
+	75%{opacity: 0}
+	100%{opacity: 0}
+}
+@keyframes yan{
+	0%{opacity: 0}
+	25%{opacity: 0}
+	50%{opacity: 0}
+	55%{opacity: 0}
+	70%{opacity: 100}
+	75%{opacity: 0}
+	100%{opacity: 0}
+}
+@keyframes long{
+	0%{opacity: 0}
+	25%{opacity: 0}
+	50%{opacity: 0}
+	75%{opacity: 0}
+	80%{opacity: 0}
+	95%{opacity: 100}
+	100%{opacity: 0}
+}
