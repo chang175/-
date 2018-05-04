@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/chang175/mhxy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chang175/mhxy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/donghua.css"/>
+	</head>
+	<body>
+		<p class="x">逍遥生<span class="xiao">逍遥天下不封侯，感叹江中一叶舟</span></p>
+		<p class="j">剑侠客<span class="jian">一生淡泊名利，嗜武如痴，英雄意，儿女情，独闯江湖半生醉，举杯邀月最销魂</span></p>
+		<p class="y">偃无师<span class="yan">古国偃师之后，三界中唯一精通古老偃术的神秘侠客</span></p>
+		<p class="l">龙太子<span class="long">温柔善良，可爱单纯，身份尊贵，受尽万千宠溺却又毫无架子</span></p>
+	<audio src="img/fight2.mp3" autoplay="autoplay"></audio>
+	</body>
+</html>
