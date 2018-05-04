@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title></title>
+		<title>梦幻西游</title>
 		<link rel="stylesheet" type="text/css" href="./donghua.css"/>
 	</head>
 	<body>
