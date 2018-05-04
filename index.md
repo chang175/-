@@ -17,7 +17,7 @@ p{
 	padding-top: 20%;
 }
 .x{
-	background-image: url(../img/22.png);
+	background-image: url(./22.png);
 	background-size: 100% 100%;
 	animation: x 10s infinite;
 }
